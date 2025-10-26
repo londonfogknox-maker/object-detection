@@ -12,6 +12,14 @@ object_detection_utils file can
 
 (2) save detections with likelihoods into a csv file. 
 
+## How to Use
+
+1. Download requirements.txt and objec_detection_utils.py
+
+2. Run requirements.txt to install dependencies
+
+3. Import object_detections_utils into local python file to use
+
 ## Future Works
 
 Improve baseline functions in object_detection_utils for better detection results.
